@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mahmoud 👋
 
-<!--
-**mahmoud3200/mahmoud3200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer from Egypt focused on building useful, polished web applications.
 
-Here are some ideas to get you started:
+- 💻 Working mainly with **Next.js, React, TypeScript, Node.js, Express, and PostgreSQL**
+- 🌱 Currently improving my backend, database design, and system architecture skills
+- 🛠️ Interested in SaaS products, open-source projects, accessibility, and developer tools
+- 🚀 I enjoy turning ideas into real products and learning through building
+- 📫 Reach me at: **deifmahmoud320@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+`Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS`  
+`Node.js` `Express.js` `PostgreSQL` `Git` `GitHub`
+
+## Current Focus
+
+Building meaningful projects, contributing to open source, and becoming a stronger full-stack engineer.

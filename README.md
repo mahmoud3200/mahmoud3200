@@ -11,7 +11,7 @@ I'm a full-stack developer from Egypt focused on building useful, polished web a
 ## Tech Stack
 
 `Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS`  
-`Node.js` `Express.js` `PostgreSQL` `Git` `GitHub`
+`Node.js` `Express.js` `PostgreSQL` `Git` `GitHub` `prisma`
 
 ## Current Focus
 
